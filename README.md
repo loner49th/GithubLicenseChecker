@@ -1,0 +1,1 @@
+# GithubLicenseChecker
