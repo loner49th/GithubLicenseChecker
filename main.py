@@ -314,14 +314,7 @@ class GitHubLicenseChecker:
         except Exception as e:
             print(f"ファイル保存エラー: {e}")
 
-# 使用例
 def main():
-    """
-    使用前に以下のコマンドでPlaywrightをインストールしてください:
-    pip install playwright
-    playwright install chromium
-    """
-    
     print("GitHub Repository License Checker (Playwright版)")
     print("=" * 50)
     
